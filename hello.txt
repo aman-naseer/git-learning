@@ -1,6 +1,6 @@
 Hello Git!
 This is my first Git project.
 
-I am learning git and github
+I am learning git and github and devop
 Git is getting easier
 This change is on my fetaure branch
